@@ -1,0 +1,30 @@
+{
+    "discoverList": [
+        {
+            "id": "a",
+            "state": "1",
+            "catagory": "",
+            "cue": {
+                "title": "",
+                "description": "",
+                "icon": ""
+            },
+            "page": {
+                "pageContent": [
+                    {
+                        "title": "",
+                        "image": "",
+                        "description": "",
+                        "video": ""
+                    }
+                ],
+                "moreInfo": [
+                    {
+                        "id": "",
+                        "link": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
